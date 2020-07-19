@@ -561,7 +561,7 @@ footer ul li a:hover{
 	background: #283D71;
 	border: none;
 	border-radius: 5px;
-	padding: 10px 110px;
+	padding: 10px 25px;
 	color: white;
 	display: block;
 	margin: 12px auto;
@@ -574,7 +574,7 @@ footer ul li a:hover{
 	width: 300px;
 	height: 140px;
 	margin: 25px auto;
-	padding: 5px 81px;
+	padding: 5px 25px;
 }
 
 footer ul{
