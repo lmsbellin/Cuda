@@ -565,12 +565,13 @@ footer ul li a:hover{
 	color: white;
 	display: block;
 	margin: 12px auto;
+	width:300px;
 }
 
 .bd6 textarea {
 	
 	display: block;
-	width: 466px;
+	width: 300px;
 	height: 140px;
 	margin: 25px auto;
 	padding: 5px 81px;
